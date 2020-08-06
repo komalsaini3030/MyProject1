@@ -10,6 +10,10 @@ public class VideoGame {
   public static void candyCrush(){
 	  System.out.println("I love playing candyCrush");
   }
+  
+  public static void snakeLadder(){
+	  System.out.println("I love playing snakeLadder");
+  }
 	public static void main(String[] args) {
 		ludo();
 		pubg();
