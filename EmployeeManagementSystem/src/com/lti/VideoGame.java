@@ -7,6 +7,9 @@ public class VideoGame {
   public static void pubg(){
 	  System.out.println("I love playing pubg");
   }
+  public static void candyCrush(){
+	  System.out.println("I love playing candyCrush");
+  }
 	public static void main(String[] args) {
 		ludo();
 		pubg();
